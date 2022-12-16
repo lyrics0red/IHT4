@@ -1,0 +1,55 @@
+1) Тест 1
+7
+injury
+tooth
+tooth
+injury
+ear
+injury
+injury
+
+2) Тест 2
+4
+tooth
+tooth
+tooth
+tooth
+
+3) Тест 3
+4
+injury
+tooth
+injury
+liver
+
+4) Тест 4
+29
+injury
+tooth
+insomnia
+kidney
+injury
+stomack
+tooth
+tooth
+injury
+eye
+injury
+flu
+throat
+tooth
+heart
+injury
+allergy
+injury
+rhinits
+cough
+tooth
+ear
+head
+injury
+injury
+acne
+tooth
+tooth
+rash

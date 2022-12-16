@@ -1,0 +1,51 @@
+1) Тест 1
+Dentist has cured one patient
+Surgery has cured one patient
+Dentist has cured one patient
+Surgery has cured one patient
+Therapist has cured one patient
+Surgery has cured one patient
+Surgery has cured one patient
+
+2) Тест 2
+Dentist has cured one patient
+Dentist has cured one patient
+Dentist has cured one patient
+Dentist has cured one patient 
+
+3) Тест 3
+Dentist has cured one patient
+Surgery has cured one patient
+Therapist has cured one patient
+Surgery has cured one patient
+
+4) Тест 4
+Dentist has cured one patient
+Surgery has cured one patient
+Therapist has cured one patient
+Therapist has cured one patient
+Surgery has cured one patient
+Therapist has cured one patient
+Dentist has cured one patient
+Dentist has cured one patient
+Surgery has cured one patient
+Therapist has cured one patient
+Therapist has cured one patient
+Surgery has cured one patient
+Therapist has cured one patient
+Dentist has cured one patient
+Therapist has cured one patient
+Therapist has cured one patient
+Surgery has cured one patient
+Therapist has cured one patient
+Surgery has cured one patient
+Therapist has cured one patient
+Therapist has cured one patient
+Dentist has cured one patient
+Therapist has cured one patient
+Surgery has cured one patient
+Therapist has cured one patient
+Surgery has cured one patient
+Dentist has cured one patient
+Therapist has cured one patient
+Dentist has cured one patient
